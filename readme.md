@@ -1,3 +1,19 @@
+# 🏆 Ultimate LeetCode Badges Collection
+> **The comprehensive guide to LeetCode profile badges, medals, and earning requirements.**
+
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Badges Listed](https://img.shields.io/badge/Total_Badges-100%2B-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+
+## 🚀 Overview
+Welcome to the largest open-source compilation of **LeetCode Badges**. Whether you are hunting for the **Guardian Rank**, completing the **Top Interview 150**, or tracking your **Daily Challenge** streak, this repository provides high-resolution assets and clear instructions on how to earn every medal.
+
+**Key Collections:**
+* **Study Plans:** SQL 50, Pandas, Dynamic Programming, and more.
+* **Competitions:** Knight & Guardian rating requirements.
+* **Daily Challenges:** Monthly badges from 2021 to 2025.
+
+---
 # 🏆 LeetCode Badges Collection
 
 > **An exhaustive compilation of LeetCode.com badges.**
